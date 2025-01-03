@@ -3,8 +3,8 @@ package pdf417
 import "math"
 
 const (
-	minCols         = 2
-	maxCols         = 30
+	minCols         = 9
+	maxCols         = 9
 	maxRows         = 30
 	minRows         = 2
 	moduleHeight    = 2
